@@ -1,7 +1,7 @@
 # Trees of Grenoble
 <span style="font-size:12px">
     Author: <span style="color:grey">Julien DUBOIS <br /></span>
-    Status: <span style="color:grey">Active<br /></span>
+    Status: <span style="color:grey">Completed<br /></span>
     Last Updated: <span style="color:grey">23/07/2025 <br /></span>
 </span>
 <br />
